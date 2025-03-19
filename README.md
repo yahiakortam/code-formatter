@@ -8,12 +8,7 @@ Syntax Error Checking: Flags errors and provides suggestions for fixing them.
 Whitespace Handling: Removes trailing spaces, extra blank lines, and unnecessary spaces.
 Comments and Formatting: Ensures comments are properly aligned and indented.
 Installation
-Clone the repository:
 
-git clone https://github.com/yourusername/code-formatter.git
-Navigate to the project directory:
-
-cd code-formatter
 Install the required dependencies:
 
 pip install -r requirements.txt
